@@ -1,25 +1,28 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+#### Author: Alexander Vikenfalk
 
-### Getting Started
+#### About this project: 
+Another playground porject where the goal is just to get comfortable with different libraries. This is an app that's connected to the Google books API. 
+As of right now it only has a very simple search function that you can use to get a list of matching titles. The functionalities will shortly be expanded.
 
-There are two methods for getting started with this repo.
+#### Technologies used: 
+* **React.js** for making the nice UI.
+* **Redux** for state and data handling.
+* **Bootstrap** for keeping the design in place.
+* **CSS 3** for small design fixes.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#### How to use this service ####
+1. git clone https://github.com/AlexanderVikenfalk/Booksearch.git
+2. cd BookApp
+3. npm install
+4. npm start
+5. go to: http://localhost:8080/webpack-dev-server/
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+#### Screenshots ####
+(will come shortly)
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Other remarks ####
 
-```
-> npm install
-> npm start
-```
+### Get in contact with me ###
+[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
+

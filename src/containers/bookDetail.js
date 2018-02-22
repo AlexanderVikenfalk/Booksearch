@@ -9,7 +9,6 @@ class BookDetail extends Component {
     }
     return (
       <div className="card bookContainer bookDetail">
-        {/* <img className="card-img-top" src="..." alt="Card image cap" /> */}
         <div className="card-block">
           <h4 className="card-title">Details for:{this.props.book.volumeInfo.title}</h4>
           <p className="card-text">
@@ -18,9 +17,6 @@ class BookDetail extends Component {
           </p>
         </div>
         <ul className="list-group list-group-flush">
-          {/* <li className="list-group-item">Author: {this.props.book.author}</li>
-          <li className="list-group-item">Pages: {this.props.book.pages}</li> */}
-          {/* <li className="list-group-item">Vestibulum at eros</li> */}
         </ul>
         <div className="card-block">
           <a href="#" className="card-link">

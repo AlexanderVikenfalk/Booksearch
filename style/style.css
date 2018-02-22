@@ -61,3 +61,11 @@ body {
 .caption{
     flex-wrap: wrap;
 }
+
+.caption h3{
+  word-wrap: break-word;
+}
+
+.caption p {
+  text-align:center;
+}
